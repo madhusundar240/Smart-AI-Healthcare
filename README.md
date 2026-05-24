@@ -14,6 +14,7 @@ Diet Recommendation
 Precaution Suggestions
 PDF Health Report Generation
 Nearby Hospital Navigation using Google Maps
+
 🛠️ Technologies Used
 
 Python
@@ -24,7 +25,9 @@ CSS
 JavaScript
 Scikit-learn
 ReportLab
+
 📂 Project Structure
+
 Plain text
 healthcare-chatbot/
 │
@@ -39,7 +42,9 @@ healthcare-chatbot/
 ├── uploads/
 │
 ├── README.md
+
 ▶️ How to Run the Project
+
 1. Clone Repository
 Bash
 git clone <repository-link>
@@ -54,11 +59,17 @@ Bash
 uvicorn app:app --reload
 5. Open Frontend
 Open index.html using Live Server or browser.
+
 📊 Dataset
+
 The project uses symptom and disease datasets for Machine Learning based disease prediction and healthcare analysis.
+
 🎯 Objective
+
 To develop an intelligent AI-powered healthcare assistant that improves early disease awareness, healthcare accessibility, and smart medical support using Machine Learning techniques.
+
 📍 Output
+
 The system provides:
 Predicted Disease
 Severity Level
