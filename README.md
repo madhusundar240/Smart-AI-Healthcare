@@ -1,5 +1,4 @@
-# Smart-AI-Healthcare
-A real-time AI and Machine Learning based healthcare application that predicts diseases from user symptoms using text, voice, and image inputs. The system supports multilingual communication, severity analysis, diet recommendations, PDF report generation, and nearby hospital navigation for smart medical assistance.
+
 📌 Project Overview
 The Multilingual AI Healthcare Assistant is a real-time healthcare application developed using Artificial Intelligence and Machine Learning technologies. The system predicts possible diseases based on user symptoms provided through text, voice, and image inputs.
 The application supports multilingual communication, severity analysis, diet recommendations, PDF health report generation, and nearby hospital navigation for smart medical assistance.
