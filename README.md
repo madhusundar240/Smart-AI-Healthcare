@@ -2,6 +2,7 @@
 
 The Multilingual AI Healthcare Assistant is a real-time healthcare application developed using Artificial Intelligence and Machine Learning technologies. The system predicts possible diseases based on user symptoms provided through text, voice, and image inputs.
 The application supports multilingual communication, severity analysis, diet recommendations, PDF health report generation, and nearby hospital navigation for smart medical assistance.
+
 🚀 Features
 
 Real-time Disease Prediction
